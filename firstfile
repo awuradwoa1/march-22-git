@@ -1,1 +1,13 @@
-Dellatech global 
+Dellatech global
+##Linux-based system engineers##
+#commands you must know#
+ls
+pwd
+mkdir
+su -i
+cat
+echo
+man
+ls -la
+ip a
+useradd
