@@ -11,3 +11,4 @@ man
 ls -la
 ip a
 useradd
+su - admin 
